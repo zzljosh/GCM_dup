@@ -46,7 +46,7 @@ public class GCMDemoActivity extends BaseActivity {
                (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
          manager.cancel(Constants.NOTIFICATION_NR);
          String msgTxt = getString(R.string.msg_received, msg);
-         Crouton.showText(this, "fucked", Style.INFO);
+         Crouton.showText(this, "Received!!", Style.INFO);
       }
    }
 
