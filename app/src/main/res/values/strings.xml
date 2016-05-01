@@ -22,7 +22,7 @@
     -->
     <!-- gcm demo -->
     <!-- general stuff -->
-    <string name="gcm_project_id">813916479990</string>
+    <string name="gcm_project_id">724441291092</string>
     <string name="gcm_demo_app_name">GCM Demo</string>
     <string name="gcm_demo_copyright">2014</string>
 
